@@ -1,9 +1,9 @@
 body {
   margin: 0;
-  padding: 15px;
+  padding: 0px 12px;
 }
 
 iframe {
   width: calc(100vw - 30px);
-  height: calc(100vh - 120px);
+  height: calc(100vh - 80px);
 }
